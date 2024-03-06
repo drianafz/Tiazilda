@@ -1,0 +1,59 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+
+#vegano{
+    
+    justify-content:center;
+    text-align: center;
+   
+}
+table, th, td {
+    border: 3px solid rgb(29, 29, 27);
+    border-collapse: duble;
+    padding: 10px;}
+
+    img{
+        margin: auto;
+        display: block;
+    }
+
+    #prato{
+        display: flex;
+        justify-content:center ;
+    }
+
+    body{
+        background-color: rgb(176, 198, 228);}
+
+        body {
+            background-color: lightblue;
+          }
+          
+          h1 {
+            color: rgb(14, 13, 13);
+            text-align: center;
+          }
+          
+          p {
+            font-family: verdana;
+            font-size: 15px;
+          }
+          #tiazilda{
+            font-size: 20px;
+          }
+
+          #tiazilda{
+            display: flex;
+        justify-content:center ;
+          }
+          #tiazilda{
+            font-family: verdana;
+            font-size: 10
+            px;
+          }
+    #tabela{
+        display: flex;
+        justify-content: center;
+    }
